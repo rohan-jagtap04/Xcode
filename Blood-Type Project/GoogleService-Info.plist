@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>387828233954-f156mnrskfvc1vhm3f3gcr12fmrjekr1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.387828233954-f156mnrskfvc1vhm3f3gcr12fmrjekr1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBkGmkNRTJAzcwIIynNcYzcZa3-7HkTfZM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>387828233954</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.FollowU.Blood-Types</string>
+	<key>PROJECT_ID</key>
+	<string>blood-types-requesr</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blood-types-requesr.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:387828233954:ios:7060c9adc8089b397d90bb</string>
+	<key>DATABASE_URL</key>
+	<string>https://blood-types-requesr.firebaseio.com</string>
+</dict>
+</plist>
