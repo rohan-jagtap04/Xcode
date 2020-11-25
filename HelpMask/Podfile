@@ -1,0 +1,98 @@
+# Uncomment the next line to define a global platform for your project
+ platform :ios, '9.0'
+
+target 'HelpMask' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  
+   use_frameworks!
+
+  # Pods for HelpMask
+
+    # Only pull in Firestore features
+pod 'FirebaseUI/Firestore', '~> 8.0'
+
+# Only pull in Database features
+pod 'FirebaseUI/Database', '~> 8.0'
+
+# Only pull in Storage features
+pod 'FirebaseUI/Storage', '~> 8.0'
+
+# Only pull in Auth features
+pod 'FirebaseUI/Auth', '~> 8.0'
+
+# Only pull in Facebook login features
+pod 'FirebaseUI/Facebook', '~> 8.0'
+
+# Only pull in Google login features
+pod 'FirebaseUI/Google', '~> 8.0'
+
+# Only pull in Phone Auth login features
+pod 'FirebaseUI/Phone', '~> 8.0'
+
+pod 'Firebase/Analytics'
+
+pod 'Firebase/Core'
+
+pod 'FirebaseUI/Email'
+
+pod 'Firebase/Firestore'
+
+pod 'PhoneNumberKit'
+
+pod 'TinyConstraints'
+
+pod 'JGProgressHUD' 
+
+pod 'mailcore2-ios'
+
+    
+
+  target 'HelpMaskTests' do
+    inherit! :search_paths
+    # Pods for testing
+
+    # Only pull in Firestore features
+pod 'FirebaseUI/Firestore', '~> 8.0'
+
+# Only pull in Database features
+pod 'FirebaseUI/Database', '~> 8.0'
+
+# Only pull in Storage features
+pod 'FirebaseUI/Storage', '~> 8.0'
+
+# Only pull in Auth features
+pod 'FirebaseUI/Auth', '~> 8.0'
+
+# Only pull in Facebook login features
+pod 'FirebaseUI/Facebook', '~> 8.0'
+
+# Only pull in Google login features
+pod 'FirebaseUI/Google', '~> 8.0'
+
+# Only pull in Phone Auth login features
+pod 'FirebaseUI/Phone', '~> 8.0'
+
+pod 'Firebase/Analytics'
+
+pod 'Firebase/Core'
+
+pod 'FirebaseUI/Email'
+
+pod 'Firebase/Firestore'
+
+pod 'PhoneNumberKit'
+
+pod 'TinyConstraints'
+
+pod 'JGProgressHUD' 
+
+pod 'mailcore2-ios'
+
+
+  end
+
+  target 'HelpMaskUITests' do
+    # Pods for testing
+  end
+
+end
