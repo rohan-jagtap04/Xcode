@@ -1,0 +1,1 @@
+This project shows user on earth using an Apple UI. Enjoy :)
