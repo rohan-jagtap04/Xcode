@@ -1,0 +1,1 @@
+This app is made to contact people with similar blood types for blood donations. I attempted to propose this to the Canadian Blood Services, but unfortunately this project did not come to fruition. 
